@@ -1,13 +1,14 @@
-﻿using PropertyChanged;
+﻿using System.ComponentModel;
 
 namespace propertychangedfodysample
 {
-    [ImplementPropertyChanged]
-    public class propertychangedfodysampleWithFodyPageModel
+	public class propertychangedfodysampleWithFodyPageModel : INotifyPropertyChanged
     {
         public string SampleText {
             get;
             set;
         }
-    }
+
+		public event PropertyChangedEventHandler PropertyChanged;
+	}
 }

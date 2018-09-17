@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F81ED1D4-932D-4C56-8F82-DB513BEF04E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="propertychangedfodysample/PageModels/propertychangedfodysampleWithFodyPageModel.cs">
+    <Files>
+      <File FileName="propertychangedfodysample/propertychangedfodysamplePage.xaml" Line="8" Column="15" />
+      <File FileName="propertychangedfodysample/propertychangedfodysamplePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="propertychangedfodysample/propertychangedfodysampleWithFodyPage.xaml.cs" Line="13" Column="63" />
+      <File FileName="propertychangedfodysample/PageModels/propertychangedfodysampleWithFodyPageModel.cs" Line="5" Column="75" />
+      <File FileName="propertychangedfodysample/PageModels/propertychangedfodysamplePageModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.propertychangedfodysample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.47875265-D9AC-4BDB-B7A7-8C6316406665" />
+</Properties>
